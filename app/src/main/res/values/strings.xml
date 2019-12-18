@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Facbook Like Feed</string>
+
+    <string name="hello_world">
+        Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="planets_array">
+        <item>Quotes</item>
+        <item>Contactus</item>
+        <item>Top10Quotes</item>
+        <item>Trending</item>
+        <item>filter</item>
+        <item>Recent Events</item>
+        <item>reviews</item>
+        <item>About us</item>
+    </string-array>
+    <string-array name="Category">
+        <item>APJ Abdul Kalam</item>
+        <item>Mahatma Gandhi </item>
+        <item>Albert Einstein</item>
+        <item>Rabindra Nath Tagore</item>
+        <item>Martin Luther King</item>
+    </string-array>
+
+    <string-array name="Author">
+        <item>Motivational</item>
+        <item>Love</item>
+        <item>Spiritual</item>
+        <item>Success</item>
+        <item>Friends</item>
+        <item>Parents</item>
+        <item>Leadership</item>
+    </string-array>
+
+    <string-array name="news">
+        <item>Dr Br Ambedkar</item>
+        <item>Bill Gates</item>
+        <item>Pope john paul</item>
+        <item>Steve Jobs</item>
+    </string-array>
+
+    <string-array name="coeducation">
+        <item>Girls Only</item>
+        <item>Boys Only</item>
+        <item>Coed</item>
+    </string-array>
+
+
+    <string-array name="rating">
+        <item>1 Star</item>
+        <item>2 Star</item>
+        <item>3 Star</item>
+        <item>4 Star</item>
+        <item>5 Star</item>
+    </string-array>
+    <string name="url">http://127.0.0.1:5000/</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>

@@ -1,0 +1,24 @@
+
+
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:appcompat="http://schemas.android.com/tools">
+        <item android:id="@+id/action_websearch"
+            android:icon="@drawable/action_search"
+            android:title="websearch"
+            android:showAsAction="ifRoom|withText" />
+        <item
+            android:id="@+id/action_settings"
+            android:title="action_settings"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+
+        <item
+            android:id="@+id/menu_search"
+            android:title="menu_search"
+            appcompat:actionViewClass="android.support.v7.widget.SearchView"
+            appcompat:showAsAction="always"/>
+    </menu>
+
+
